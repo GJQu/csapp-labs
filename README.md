@@ -12,7 +12,5 @@ ToDoList:
 - Malloc Lab
 - Proxy Lab
 
-Done:
+Done: 
 
-- Data Lab: except for `ilog2` & `float_i2f`
-- Bomb Lab: Phase 1 ~ 4
